@@ -1,6 +1,6 @@
 #include <stdio>
-int sum(int a, int b);
-int diff(int a, int b);
+int sum(int , int );
+int diff(int , int );
 
 int main(){
 
@@ -12,4 +12,8 @@ int sum(int a, int b){
     int somma;
     somma=a+b;
     return somma;
+}
+int diff(int a,int b) {
+  diff=a-b;
+  return diff;
 }
