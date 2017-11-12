@@ -1,8 +1,12 @@
 #include <stdio>
 int sum(int a, int b);
+int diff(int a, int b);
+int main(){
 
-int diff(int a, int b) {
-  int diff;
-  if (a>=b) if=a-b;
-  else diff=b-a;
+  return 0;
+}
+int sum(int a, int b){
+    int somma;
+    somma=a+b;
+    return somma;
 }
