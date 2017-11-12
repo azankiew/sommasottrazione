@@ -1,2 +1,2 @@
 # sommasottrazione
-Esegue somma e sottrazione
+Programma che esegue somma e sottrazione in c
