@@ -14,6 +14,7 @@ int sum(int a, int b){
     return somma;
 }
 int diff(int a,int b) {
+  int diff;
   diff=a-b;
   return diff;
 }
